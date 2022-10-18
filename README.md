@@ -8,6 +8,7 @@ I am working as PHP developer for small Czech company by day. These are my opens
 - [html5-playlist](https://github.com/severak/html5-playlist) - easy to use javascript library for creating simple playlist on webpages
 - [milions](https://tildegit.org/severak/millions) - non-tracking web counter/analytics inspired by plausible.io and Simple analytics
 - [kyselo](https://bitbucket.org/severak/kyselo/src) - microblogging social network started as soup.io clone (see https://kyselo.eu/ for public instance)
+- [severak/forms](https://github.com/severak/forms) - PHP form component forked from Kyselo
 - [art-lost-in-time](https://tildegit.org/severak/art-lost-in-time) - interactive fiction about Andy Warhol created using [custom engine](https://tildegit.org/severak/hagen)
 
 ## cartography related
@@ -42,8 +43,7 @@ I am working as PHP developer for small Czech company by day. These are my opens
 (these project are mostly unfinished or abandoned)
 
 - [stela](https://tildegit.org/severak/stela) - custom loyalty card like app written for small gallery (finished but not used anymore)
-- [severak/forms](https://github.com/severak/forms) - PHP form component forked from Kyselo
 - [tee](https://github.com/severak/tee) - cabview video database (abandoned)
-- [groka](https://github.com/severak/groka) - search engine in a box based on Groonga full-text search engine (abandones)
+- [groka](https://github.com/severak/groka) - search engine in a box based on Groonga full-text search engine (abandoned)
 - [svlad2](https://github.com/severak/svlad2) - CSV editor written in FreePascal/Lazarus (abandoned)
 - [netlabels](https://github.com/severak/netlabels) - index of netlabels archived at archive.org
