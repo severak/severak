@@ -41,7 +41,7 @@ I am working as PHP developer for small Czech company by day. These are my opens
 
 (these project are mostly unfinished or abandoned)
 
-- [stela](https://tildegit.org/severak/stela) - 
+- [stela](https://tildegit.org/severak/stela) - custom loyalty card like app written for small gallery (finished but not used anymore)
 - [severak/forms](https://github.com/severak/forms) - PHP form component forked from Kyselo
 - [tee](https://github.com/severak/tee) - cabview video database (abandoned)
 - [groka](https://github.com/severak/groka) - search engine in a box based on Groonga full-text search engine (abandones)
