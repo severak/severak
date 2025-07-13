@@ -7,12 +7,14 @@ I am working as PHP developer for small Czech company by day. These are my opens
 - [ginger](https://github.com/severak/ginger) - git command line wrapper
 - [html5-playlist](https://github.com/severak/html5-playlist) - easy to use javascript library for creating simple playlist on webpages
 - [milions](https://tildegit.org/severak/millions) - non-tracking web counter/analytics inspired by plausible.io and Simple analytics
-- [kyselo](https://bitbucket.org/severak/kyselo/src) - microblogging social network started as soup.io clone (see https://kyselo.eu/ for public instance)
+- [kyselo](https://github.com/severak/kyselo) - microblogging social network started as soup.io clone (see https://kyselo.eu/ for public instance)
 - [severak/forms](https://github.com/severak/forms) - PHP form component forked from Kyselo
 - [art-lost-in-time](https://tildegit.org/severak/art-lost-in-time) - interactive fiction about Andy Warhol created using [custom engine](https://tildegit.org/severak/hagen)
 
 ## cartography related
 
+- [retro-cedule-font](https://github.com/severak/retro-cedule-font) - my attempt to recreate font from old Czechoslovak enamel signs (in CAD). It can also produce maps as side effect.
+- [graph-paper](https://github.com/severak/graph-paper) - my attempt at implementing something like a CAD
 - [lunarender3](https://github.com/severak/lunarender3) - new version of openstreetmap renderer, this time in Nim (not yet finished)
 - [lunarender](https://github.com/severak/lunarender) - OG openstreetmap renderer written in lua. Not much usable and not finished.
 - [margarita4](https://github.com/severak/margarita4) - GTFS timetable database viewer
