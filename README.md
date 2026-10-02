@@ -12,6 +12,8 @@ I am working as PHP developer for small Czech company by day. These are my opens
 - [units](https://github.com/severak/graph-paper/blob/main/severak/units.lua) - units tracking and conversion library (see [docs](https://github.com/severak/graph-paper/blob/main/severak/units.md))
 - [art-lost-in-time](https://tildegit.org/severak/art-lost-in-time) - interactive fiction about Andy Warhol created using [custom engine](https://tildegit.org/severak/hagen)
 
+I have contributed [user documentation for Bespoke synth](https://github.com/BespokeSynth/BespokeSynth/wiki/FAQ) and [manual for ripplerx](https://github.com/tiagolr/ripplerx/wiki).
+
 ## cartography related
 
 - [mapstyles](https://github.com/severak/mapstyles) - some mapstyles which I developed using free version of Mapbox. Now these are being converted to tiles from OSM.
