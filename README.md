@@ -28,6 +28,7 @@ I am working as PHP developer for small Czech company by day. These are my opens
 - [cyber-music-studio](https://github.com/severak/cyber-music-studio) - web based DAW (work in progress)
 - [alda-js](https://github.com/severak/alda-js) - javascript port of Alda music programming language (actually two differents ports in one repo)
 - [sheet-music](https://github.com/severak/sheet-music) - some sheet music in Alda (music programming) language
+- [junonova](https://github.com/severak/junonova) - simplified control panel for Novation Mininova inspired by Roland Juno 60
 - [akai-mpk-mini-play-guts](https://github.com/severak/akai-mpk-mini-play-guts) - documented teardown of AKAI MPK mini play (OG version)
 - [falco](https://tildegit.org/severak/falco) - VSTs written in Cabbage/CSound and other experimental music stuff
 - [guinea-synth](https://tildegit.org/severak/guinea-synth) - now dismantled RaspberryPi-based synthesizer
